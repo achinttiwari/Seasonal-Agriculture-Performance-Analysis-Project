@@ -1,0 +1,4 @@
+Title: Percentage of Loss-Making Farms by Season
+
+Caption:
+The share of farms reporting negative profit rises steadily across seasons: 42.2% in Kharif, 51.1% in Rabi, and 64.5% in Zaid. Nearly two-thirds of Zaid farms operate at a loss, making it the season most in need of cost-efficiency or pricing interventions.

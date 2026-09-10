@@ -1,0 +1,4 @@
+Title: Average Yield by State and Season
+
+Caption:
+The best-performing season is not the same for every state: Kharif is strongest for Andhra Pradesh, Gujarat, Madhya Pradesh, Tamil Nadu, and Telangana, while Rabi is best for Maharashtra and Punjab, and Zaid is best for Karnataka. This shows seasonal patterns are moderated by regional/state-level agro-climatic differences and should not be generalized nationwide.

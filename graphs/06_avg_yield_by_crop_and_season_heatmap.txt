@@ -1,0 +1,4 @@
+Title: Average Yield by Crop and Season
+
+Caption:
+Yield performance is highly crop-specific: Sugarcane in Kharif achieves the highest average yield of all crop-season combinations (51.6 t/ha), while Pulses in Zaid records the lowest (0.65 t/ha). No single season is optimal for every crop, which supports crop-specific rather than one-size-fits-all seasonal planning.

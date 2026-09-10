@@ -1,0 +1,4 @@
+Title: Rainfall vs Yield, and Water Efficiency vs Profit
+
+Caption:
+The left panel shows no clear trend between rainfall and yield (r = 0.03), meaning higher rainfall alone does not translate into higher output. The right panel shows a visibly positive relationship between water efficiency and profit (r = 0.49), reinforcing that farms getting more output per unit of water tend to be more profitable, regardless of season.

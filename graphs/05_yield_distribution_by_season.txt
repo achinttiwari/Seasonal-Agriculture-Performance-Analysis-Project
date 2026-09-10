@@ -1,0 +1,4 @@
+Title: Yield Distribution by Season (outlier-capped at 99th percentile)
+
+Caption:
+Average yield declines from Kharif (5.50 t/ha) to Rabi (5.03 t/ha) to Zaid (4.64 t/ha), and median yield follows the same pattern (1.95, 1.66, and 1.45 t/ha respectively). All three seasons show a long right tail, meaning most farms produce modest yields while a smaller group of high-output farms pulls the average upward.

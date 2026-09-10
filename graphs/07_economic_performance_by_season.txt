@@ -1,0 +1,4 @@
+Title: Economic Performance by Season (Cost, Revenue, Profit)
+
+Caption:
+Median total cost is broadly similar across seasons (INR 507K-535K), but median revenue falls sharply from Kharif (INR 520K) to Rabi (INR 438K) to Zaid (INR 374K). As a result, median profit is positive only in Kharif (+INR 38.8K) and turns negative in Rabi (-INR 3.2K) and more steeply negative in Zaid (-INR 62.1K).

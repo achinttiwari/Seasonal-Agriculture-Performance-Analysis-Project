@@ -1,0 +1,4 @@
+Title: Number of Farm Records by Season
+
+Caption:
+Kharif accounts for the largest share of records (1,779 farms), followed by Rabi (1,627) and Zaid (594). Because Zaid is under-represented relative to the other two seasons, any seasonal averages involving Zaid should be read with slightly less statistical confidence.

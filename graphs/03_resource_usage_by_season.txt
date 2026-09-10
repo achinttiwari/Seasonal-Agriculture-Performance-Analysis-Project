@@ -1,0 +1,4 @@
+Title: Resource Usage by Season (Fertilizer, Water Used, Water Efficiency)
+
+Caption:
+Fertilizer use is nearly constant across seasons (~185-187 kg/ha), showing it is not a major driver of seasonal differences. Water usage is highest in Zaid (6,420 m3) despite Zaid having the least rainfall, reflecting greater reliance on irrigation. Water efficiency is highest in Kharif (5.9 t/1000m3) and lowest in Zaid (4.4 t/1000m3), meaning Zaid farms use more water to produce comparatively less yield.

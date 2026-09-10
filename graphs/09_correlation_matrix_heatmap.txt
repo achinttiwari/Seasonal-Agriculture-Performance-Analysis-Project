@@ -1,0 +1,4 @@
+Title: Correlation Matrix of Key Variables
+
+Caption:
+Water efficiency shows the strongest positive relationship with profit (r = 0.49) among the variables tested, suggesting efficient water use is a meaningful lever for profitability. In contrast, rainfall (r = 0.03), fertilizer use (r = 0.00), and seed quality score (r = -0.01) show almost no linear relationship with yield in this dataset, indicating yield outcomes are shaped by a more complex mix of factors than any single input.

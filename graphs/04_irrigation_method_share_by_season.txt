@@ -1,0 +1,4 @@
+Title: Irrigation Method Share by Season
+
+Caption:
+Flood irrigation is the most common method in every season (32-33% of farms), followed by Rainfed and Drip. The mix of irrigation methods stays fairly stable across seasons, with only a modest rise in Sprinkler use during Zaid (20.2% vs ~18% in Kharif and Rabi) as farms compensate for lower natural rainfall.

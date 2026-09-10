@@ -1,0 +1,4 @@
+Title: Disease/Pest Risk (%) by Season
+
+Caption:
+Disease and pest risk is markedly higher in Kharif (avg. 54.5%) than in Rabi (40.5%) or Zaid (38.2%), consistent with the high humidity and rainfall of the monsoon season creating more favorable conditions for pests and disease.

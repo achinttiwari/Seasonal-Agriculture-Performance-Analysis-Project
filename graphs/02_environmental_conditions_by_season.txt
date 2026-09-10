@@ -1,0 +1,4 @@
+Title: Environmental Conditions by Season (Rainfall, Temperature, Humidity, Sunlight)
+
+Caption:
+Kharif is the wettest and most humid season (avg. 852 mm rainfall, 72% humidity), consistent with the monsoon period. Rabi is cooler and drier (avg. 24°C, 436 mm rainfall), while Zaid is the hottest and sunniest season (avg. 31°C, 8.2 sunlight hours/day) with the lowest rainfall (299 mm). These contrasting conditions explain much of the seasonal variation seen in later charts.
